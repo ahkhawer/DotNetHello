@@ -1,9 +1,10 @@
 pipeline {
   agent any
+
   stages {
       stage('Build') {
         steps {
-          sh 'javac msbuild'
+          sh 'dotnet msbuild'
         }
       }
       stage('Test') {
