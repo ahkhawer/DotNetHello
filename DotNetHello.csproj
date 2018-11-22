@@ -1,8 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project Sdk="Microsoft.NET.Sdk"  xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
-
+  <Target Name="assembleDebug" Condition=" '$(Configuration)' == 'Debug' ">
+    <Message Text="This custom target will only be executed when configuration is debug" Importance="high"></Message>
+  </Target>
 </Project>
