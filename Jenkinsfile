@@ -13,7 +13,8 @@ pipeline {
       }
       stage('Deliver') {
         steps {
-          sh './jenkins/scripts/deliver.sh'
+          sh 'dotnet bin/Debug/netcoreapp2.1/DotNetHello.dll'
+          //sh './jenkins/scripts/deliver.sh'
         }
       }
   }
