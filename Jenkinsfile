@@ -1,7 +1,7 @@
 pipeline {
   agent any
   tools{
-    MSBuild /Library/Frameworks/Mono.framework/Versions/Current/Commands/msbuild
+    MSBuild 'MSBuild_Default'
   }
   stages {
       stage('Build') {
