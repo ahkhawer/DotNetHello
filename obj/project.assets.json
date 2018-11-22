@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmad/Desktop/Hello_Jenkins/donet/firstapp/firstapp.csproj",
-      "projectName": "firstapp",
-      "projectPath": "/Users/ahmad/Desktop/Hello_Jenkins/donet/firstapp/firstapp.csproj",
+      "projectUniqueName": "/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/DotNetHello.csproj",
+      "projectName": "DotNetHello",
+      "projectPath": "/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/DotNetHello.csproj",
       "packagesPath": "/Users/ahmad/.nuget/packages/",
-      "outputPath": "/Users/ahmad/Desktop/Hello_Jenkins/donet/firstapp/obj/",
+      "outputPath": "/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace firstapp
+namespace DotNetHello
 {
     class Program
     {

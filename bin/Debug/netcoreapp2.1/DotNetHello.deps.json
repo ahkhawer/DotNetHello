@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "firstapp/1.0.0": {
+      "DotNetHello/1.0.0": {
         "runtime": {
-          "firstapp.dll": {}
+          "DotNetHello.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "firstapp/1.0.0": {
+    "DotNetHello/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

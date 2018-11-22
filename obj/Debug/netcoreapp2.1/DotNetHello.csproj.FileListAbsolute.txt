@@ -1,0 +1,11 @@
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/bin/Debug/netcoreapp2.1/DotNetHello.deps.json
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/bin/Debug/netcoreapp2.1/DotNetHello.runtimeconfig.json
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/bin/Debug/netcoreapp2.1/DotNetHello.runtimeconfig.dev.json
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/bin/Debug/netcoreapp2.1/DotNetHello.dll
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/bin/Debug/netcoreapp2.1/DotNetHello.pdb
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/obj/Debug/netcoreapp2.1/DotNetHello.csprojAssemblyReference.cache
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/obj/Debug/netcoreapp2.1/DotNetHello.csproj.CoreCompileInputs.cache
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/obj/Debug/netcoreapp2.1/DotNetHello.AssemblyInfoInputs.cache
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/obj/Debug/netcoreapp2.1/DotNetHello.AssemblyInfo.cs
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/obj/Debug/netcoreapp2.1/DotNetHello.dll
+/Users/ahmad/Desktop/Hello_Jenkins/donet/DotNetHello/obj/Debug/netcoreapp2.1/DotNetHello.pdb

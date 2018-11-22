@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("firstapp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DotNetHello")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("firstapp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("firstapp")]
+[assembly: System.Reflection.AssemblyProductAttribute("DotNetHello")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DotNetHello")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
