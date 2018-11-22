@@ -3,7 +3,7 @@ pipeline {
   stages {
       stage('Build') {
         steps {
-          sh 'dotnet msbuild'
+          sh '/usr/local/share/dotnet msbuild'
         }
       }
       stage('Test') {
