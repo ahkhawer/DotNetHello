@@ -3,7 +3,7 @@ pipeline {
   stages {
       stage('Build') {
         steps {
-          sh 'msbuild'
+          sh '${msbuild}'
         }
       }
       stage('Test') {
