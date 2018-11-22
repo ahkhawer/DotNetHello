@@ -1,7 +1,7 @@
 pipeline {
   agent any
   tools{
-    MSBuild 'MSBuild_Default'
+    MSBuild
   }
   stages {
       stage('Build') {
