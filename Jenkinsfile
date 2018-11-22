@@ -3,7 +3,7 @@ pipeline {
   stages {
       stage('Build') {
         steps {
-          sh 'dotnet msbuild'
+          sh 'javac msbuild'
         }
       }
       stage('Test') {
