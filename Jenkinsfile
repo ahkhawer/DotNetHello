@@ -1,8 +1,5 @@
 pipeline {
   agent any
-  tools{
-    MSBuild
-  }
   stages {
       stage('Build') {
         steps {
